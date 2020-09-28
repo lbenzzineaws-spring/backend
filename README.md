@@ -1,6 +1,6 @@
-# Rewards Point API - backend By Latif Benzzine
+# Rewards Points API - backend By Latif Benzzine
 
-Rewards Point API is a REST API to calculate the amount of points earned per customer, per transaction, per month, per trimester (Three consecutive months) as well as total rewards point earneed by the Customer.
+Rewards Points API is a REST API to calculate the amount of points earned per customer, per transaction, per month, per trimester (Three consecutive months) as well as total rewards point earneed by the Customer.
 
 ## Technolgies used
 
