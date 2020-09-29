@@ -31,7 +31,7 @@ http://localhost:9001/swagger-ui.html (or whatever port number you end up using)
 
 
 
-A postman collection can be found here (Although not comprehensive but I gathered all endpoints + few assertions )
+A postman collection can be found here (Although not comprehensive but I gathered all endpoints + few assertions)
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/64811d0f24b02d01e966)
 
